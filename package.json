@@ -1,0 +1,22 @@
+{
+  "name": "conibot",
+  "version": "1.1.0",
+  "description": "C mon bot",
+  "main": "test.js",
+  "scripts": {
+    "test": "!help"
+  },
+  "author": "Conrad Pringiers",
+  "license": "ISC",
+  "dependencies": {
+    "discord-buttons": "^2.4.1",
+    "discord-moderator": "^1.1.0",
+    "discord.js": "^12.5.3",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.2.5"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1"
+  }
+}
